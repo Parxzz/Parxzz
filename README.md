@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Paras</h1>
-<h3 align="center">Technology Solutions Innovator | Designing & Developing with Precision.</h3>
+<h1 align="center">Hi Buddy 👋, I'm Paras</h1>
+<h3 align="center">Technology Solutions Innovator(Software Engineer) | Designing | Developing.</h3>
 
-- 🔭 I’m currently working on **Communication skills**
-
-- 🌱 I’m currently learning **AWS (Amazon web services)**
+- 🌱 I’m currently practicing **DSA**
 
 - 👯 I’m looking to collaborate on **Google**
 
 - 📫 How to reach me **parxzzmaterial@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
-
-- ⚡ Fun fact **I'm a great learner**
+- 📄 Know about my Projects [resume](Resume).
 
 ###
 
@@ -66,18 +62,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/parxzz/parxzz/output/snake.svg" alt="Snake animation" />
-
 ###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
 ###
 ###
 
@@ -86,12 +71,5 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parxzz/parxzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parxzz/parxzz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parxzz/parxzz/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 ###
