@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently practicing DSA<br><br>- 👯 I’m looking to collaborate on Google<br><br>- 📫 How to reach me parxzzmaterial@gmail.com</p>
+<p align="left">- 🌱 I’m currently practicing DSA<br><br>- 👯 I’m looking to collaborate on Google<br><br>- 📫 How to reach me **parxzzmaterial@gmail.com**<br><br>- know about my experiences (https://1drv.ms/b/c/4b4e5c8395cf985b/EUCSr_08jbVHhpHrluznpQABnc_mIzbsg2JoipYkoRACTQ?e=hwSZXa)</p>
 
 ###
 
