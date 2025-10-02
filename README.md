@@ -72,8 +72,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=parxzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parxzz.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-soni-067506347/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Parxzz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parxzzmaterial@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
