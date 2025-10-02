@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently practicing DSA<br><br>- 👯 I’m looking to collaborate on Google<br><br>- 📫 How to reach me paras35777@gmail.com<br><br>- 📑 know about my experiences [![Resume](https://drive.google.com/file/d/1EJwsTujK4MLkPMviHW7uJ7w3mrjiCHxY/view?usp=sharing)]<br><br>- My Portfolio [![Portfolio](https://paras-soni-portfolio.netlify.app/)</p> 
+<p align="left">- 🌱 I’m currently practicing DSA<br><br>- 👯 I’m looking to collaborate on Google<br><br>- 📫 How to reach me paras35777@gmail.com<br><br>- 📑 know about my experiences (https://drive.google.com/file/d/1EJwsTujK4MLkPMviHW7uJ7w3mrjiCHxY/view?usp=sharing)<br><br>- My Portfolio (https://paras-soni-portfolio.netlify.app/)</p> 
 
 ###
 
