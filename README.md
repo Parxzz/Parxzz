@@ -33,12 +33,8 @@ Currently working as a QA Engineer Intern at JISA Softech Private Limited.
 * Regression Testing
 * Test Case Design
 * Java
-* REST APIs
-
-💻 Technical Background
-
+* REST API
 * Java
-* Spring Boot
 * React
 * MySQL
 * Python
