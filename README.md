@@ -47,4 +47,3 @@ Currently working as a QA Engineer Intern at JISA Softech Private Limited.
 
 🤝 Connect With Me
 
-LinkedIn
