@@ -24,7 +24,7 @@ I’m passionate about software quality, testing, and building reliable applicat
 
 Currently working as a QA Engineer Intern at JISA Softech Private Limited.
 
-🧪 Technical Skills
+# Technical Skills
 
 * Manual Testing
 * API Testing
@@ -38,12 +38,8 @@ Currently working as a QA Engineer Intern at JISA Softech Private Limited.
 * React
 * MySQL
 * Python
+* Automation
 
-🎯 Currently Learning
+ # Currently Working On
 
-* Automation Testing
-* Advanced API Testing
-* AI-assisted Software Testing
-
-🤝 Connect With Me
-
+* Automation
